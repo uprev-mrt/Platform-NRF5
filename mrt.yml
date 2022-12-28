@@ -1,0 +1,5 @@
+---
+name: NRF5
+description: Abstraction layer for NRF5 Platform
+category: Platform
+requires: [Platform]
